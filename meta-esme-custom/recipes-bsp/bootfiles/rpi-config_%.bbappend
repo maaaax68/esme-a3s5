@@ -1,2 +1,2 @@
-`ENABLE_UART = "1"`.
+ENABLE_UART = "1"
 
