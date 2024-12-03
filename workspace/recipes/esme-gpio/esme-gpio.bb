@@ -33,6 +33,7 @@ do_compile () {
 do_install () {
 	# NOTE: unable to determine what to put here - there is a Makefile but no
 	# target named "install", so you will need to define this yourself
+	oe_runmake install INSTALL_DIR=${D}
 	:
 }
 
