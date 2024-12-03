@@ -1,0 +1,2 @@
+esme-gpio|recipes/esme-gpio/esme-gpio.bb|304f510ba2244a7bf5f261b716e0c544
+esme-gpio|appends/esme-gpio.bbappend|8f2b976b9ef4a30b5e3543964c6ee090
